@@ -13,14 +13,15 @@ body {
     background-position: top -100% left -25%, bottom -100% right -25%;
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 18px;
-}
-
-.card {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
 }
+
+/* .card {
+   
+    height: 100vh;
+} */
 
 .card-content {
     background-color: white;
